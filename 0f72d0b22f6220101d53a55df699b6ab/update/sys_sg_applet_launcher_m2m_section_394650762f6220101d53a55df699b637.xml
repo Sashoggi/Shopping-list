@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value=" PiknChoose Store">a14694b22f6220101d53a55df699b60b</applet_launcher>
+        <order/>
+        <section display_value="Store">f14650762f6220101d53a55df699b636</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-01 00:38:21</sys_created_on>
+        <sys_id>394650762f6220101d53a55df699b637</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value=" PiknChoose Store" source="x_587722_piknchoos">0f72d0b22f6220101d53a55df699b6ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" PiknChoose Store">0f72d0b22f6220101d53a55df699b6ab</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_394650762f6220101d53a55df699b637</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 00:38:21</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>
